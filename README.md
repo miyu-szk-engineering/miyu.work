@@ -2,8 +2,6 @@
 
 ## ToDo
 ### High / FIXME
-- [ ] abc
-- [x] def
 
 ### Midium / TODO
 
